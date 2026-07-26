@@ -125,27 +125,3 @@ Every incident contains events, but not every event is an incident.
 |---|---|---|---|---|---|
 | College email account | Attacker | Weak Password | High | Strong Password Policy | Medium |
 | Personal files | Technical,Environmental&Intentional | Hardware failures,Insecure application download,etc | Medium | Virus&Threat Protection | medium |
-
-## Mini Quiz
-
-### 1. What is the difference between a threat and vulnerability?
-A threat is somethign which can harm the assest and vulnerability is something which a threat uses to harm an assest
-
-### 2. What are the three parts of the CIA triad?
-Confidentiality, Integrity & Availability
-
-### 3. Give one example of an integrity failure.
-Unexpected Changes made in Database
-
-### 4. What does least privilege mean?
-Giving the access only what is needed to perform the action 
-
-### 5. Is every failed login a security incident? Explain.
-No, Security incident is something which disturbs/causes harm to the CIA Triad
-
-### 6. What is the difference between an asset and a control?
-Assent is something which an individual or organisation will like to protect and control is a safegaurd which  
-reduces the limit and liklihood of an attack 
-
-### 7. Why does defence in depth use multiple controls?
-So that if one layer fails the others can minimize the damage or stop the attack completely
